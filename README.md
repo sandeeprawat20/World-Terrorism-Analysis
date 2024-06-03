@@ -1,3 +1,7 @@
+## Dashboard Preview
+
+![image](https://github.com/sandeeprawat20/World-Terrorism-Analysis/blob/main/Dashboard.png)
+
 ## 💡 KEY FINDINGS:
 
 The following are some key findings from the dashboard:
